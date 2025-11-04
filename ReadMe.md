@@ -46,13 +46,16 @@ Built using **Node.js**, **Express**, and **MongoDB**, the project demonstrates 
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
+
 git clone https://github.com/harsh25023/File-Bud.git
 cd file-bud
 
 ### 2️⃣ Install dependencies
+
 npm install
 
 ### 3️⃣Set up environment variables Create a .env file in the root directory and add the following:
+
 PORT=your_port
 CORS_ORIGIN=*
 MONGODB_URI=your_mongodb_api_key
@@ -90,3 +93,4 @@ npm run dev
 ## Acknowledgements 
   1. Inspiration from Google Drive for the application's core concept.
   2. Libraries and frameworks used: Express, MongoDB, Mongoose, JWT, bcrypt, Multer, Cloudinary, and Cookie-parser.
+
